@@ -1,2 +1,2 @@
 # ZKSync-Official-Bridge
-Provides convenient ether bridge
+The code allows users to move assets between Ethereum's Mainnet and zkSync using optimal gas conditions.
